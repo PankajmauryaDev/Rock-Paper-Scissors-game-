@@ -66,25 +66,3 @@ choises.forEach( (choise) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-// const choises = document.querySelectorAll(".choise");
-
-// choises.forEach( (choise) => {
-//     choise.addEventListener("click", () => {
-//         const userChoise = choise.getAttribute("id");
-//         console.log("clicked is run", userChoise);
-//     })    
-// })
-
-
-
